@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gjaynir0508.github.io/hugo-quickstart/dir3/</loc>
+    <lastmod>2022-02-20T10:53:58+05:30</lastmod>
+  </url><url>
+    <loc>https://gjaynir0508.github.io/hugo-quickstart/</loc>
+    <lastmod>2022-02-20T10:53:58+05:30</lastmod>
+  </url><url>
+    <loc>https://gjaynir0508.github.io/hugo-quickstart/dir3/new/</loc>
+    <lastmod>2022-02-20T10:53:58+05:30</lastmod>
+  </url><url>
+    <loc>https://gjaynir0508.github.io/hugo-quickstart/dir/hello-world/</loc>
+  </url><url>
+    <loc>https://gjaynir0508.github.io/hugo-quickstart/categories/</loc>
+  </url><url>
+    <loc>https://gjaynir0508.github.io/hugo-quickstart/dir/</loc>
+  </url><url>
+    <loc>https://gjaynir0508.github.io/hugo-quickstart/moods/</loc>
+  </url><url>
+    <loc>https://gjaynir0508.github.io/hugo-quickstart/tags/</loc>
+  </url>
+</urlset>
